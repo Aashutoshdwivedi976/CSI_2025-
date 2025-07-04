@@ -1,38 +1,25 @@
-# CSI_2025-
-This repository contains SQL queries completed as part of the Level A assignment for querying the AdventureWorks database. The assignment includes 42 different queries covering various aspects of database querying including joins, aggregations, filtering, and sorting.
+# SQL Developer Tasks – Celebal Technologies (Summer Internship)
 
-Database Used: AdventureWorks (Microsoft sample database)
-Database Type: Relational database (SQL Server)   
-Tables Used: Customers, Orders, OrderDetails, Products, Employees, Categories, Suppliers
+Welcome to the repository that showcases my work as a **SQL Developer Intern** at **Celebal Technologies** during my summer internship.
 
+## 📌 Overview
 
-The queries cover the following categories:
+This repository consists of various SQL tasks and assignments that I performed during my internship. The objective was to strengthen my skills in SQL by applying them in real-world scenarios under guidance and mentorship.
 
-Basic customer information retrieval
-Product-related queries
-Order details and history
-Employee and management hierarchies
-Sales analysis and revenue calculations
-Geographic distribution of sales
-Inventory and product status
+## 🧠 Concepts Covered
 
-Download and install the AdventureWorks database on your SQL Server
-and run all the queries in the given sql file 
+The tasks span across multiple SQL concepts, including but not limited to:
 
+- Database Design & Modeling
+- Data Definition Language (DDL)
+- Data Manipulation Language (DML)
+- Joins (Inner, Left, Right, Full)
+- Subqueries & Nested Queries
+- Stored Procedures
+- Triggers
+- Views
+- Indexing & Optimization Techniques
+- User Management & Permissions
+- Real-world Business Logic Implementation
 
-Key Features
-Comprehensive set of 42 SQL queries
-Examples of various SQL techniques:
-Basic SELECT statements
-JOIN operations (INNER, LEFT, etc.)
-Aggregation functions (SUM, COUNT, AVG)
-GROUP BY and HAVING clauses
-Subqueries
-Date filtering
-Pattern matching (LIKE operator)
-
-
-****
-Author 
-Aashutosh Dwivedi
 
